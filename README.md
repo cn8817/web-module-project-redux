@@ -10,7 +10,7 @@ This module explored the redux philosophy, creation of the redux store and using
 
 ## Introduction
 In this project, you take a fairly complex application used to search a movie database and connect it to two different reducers through redux. You will both connect existing state definitions and build entire reducer / redux pairings from scratch.
-
+ 
 ![Movie DB Example](project-goals.gif)
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceeding forward.***
